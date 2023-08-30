@@ -40,6 +40,13 @@
     }
 
     body {
-        background-image: linear-gradient(lemonchiffon, #dd371a);
+        background-color: linear-gradient(lemonchiffon, #dd371a);
     }
     
+    li {
+        list-style-type: none;
+    }
+
+    a {
+        text-decoration: none;
+    }
