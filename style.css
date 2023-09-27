@@ -62,6 +62,11 @@
         width: 30%;
         height: 30%;
     }
+
+    .titlee {
+        font-size: 22px;
+        font-weight: bold;
+    }
 a :hover{
     cursor: pointer;
 }
