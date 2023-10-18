@@ -70,3 +70,8 @@
 a :hover{
     cursor: pointer;
 }
+.beneficiosdapimenta{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
